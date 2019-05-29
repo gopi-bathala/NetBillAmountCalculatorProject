@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gopi.NetPayCalcServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.506 s - in com.gopi.NetPayCalcServiceApplicationTests
